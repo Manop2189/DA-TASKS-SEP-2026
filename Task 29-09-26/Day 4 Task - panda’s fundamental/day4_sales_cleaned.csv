@@ -1,0 +1,13 @@
+Order_ID,Order_Date,Category,Region,Sales,Quantity,Profit,Customer,Sales_per_Unit,Profit_Margin_Per_Order
+O1001,2026-01-05,Technology,South,1200,2,300.0,Arun,600.0,25.0
+O1002,2026-01-07,Furniture,South,450,3,80.0,Priya,150.0,17.77777777777778
+O1003,2026-01-10,Office Supplies,West,300,5,60.0,Rahul,60.0,20.0
+O1004,2026-01-12,Technology,East,850,1,170.0,Sneha,850.0,20.0
+O1005,2026-01-15,Furniture,North,700,2,140.0,Vijay,350.0,20.0
+O1006,2026-01-18,Office Supplies,South,250,4,50.0,Anita,62.5,20.0
+O1007,2026-01-20,Technology,West,1500,3,375.0,Karthik,500.0,25.0
+O1008,2026-01-22,Furniture,East,550,2,130.0,Meena,275.0,23.636363636363637
+O1009,2026-01-25,Office Supplies,North,400,6,90.0,Suresh,66.66666666666667,22.5
+O1010,2026-01-27,Technology,South,950,2,190.0,Divya,475.0,20.0
+O1011,2026-01-29,Furniture,Unknown,650,1,130.0,Naveen,650.0,20.0
+O1012,2026-01-31,Office Supplies,West,275,5,55.0,Lakshmi,55.0,20.0
